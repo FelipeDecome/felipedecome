@@ -10,8 +10,7 @@ I'm a Front-end & Back-end Developer :computer:
 ### What am i learning now?
 - React, React-Native & NodeJs.
 
-## 🕵 Looking for a job Oportunity
- - Looking for a Job in Brazil, Campinas-SP or Home Office.
+## 🚀 Working at Tog.design
  
  ### 📫 Contact me:
 [![Linkedin Badge](https://img.shields.io/badge/-FelipeDecome-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipedecome)](https://www.linkedin.com/in/felipedecome)
